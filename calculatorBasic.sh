@@ -13,3 +13,6 @@ echo "Sum of two no is:" $c
 #Substration feature
 sub=$(($a -$b))
 echo "Substration of two no is:"$sub
+#Multiplication
+mul=$(($a * $b))
+echo "Multiplication of two no is:"$mul
