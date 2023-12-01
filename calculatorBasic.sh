@@ -10,3 +10,6 @@ a=10
 b=20
 c=$(($a + $b)) 
 echo "Sum of two no is:" $c
+#Substration feature
+sub=$(($a -$b))
+echo "Substration of two no is:"$sub
